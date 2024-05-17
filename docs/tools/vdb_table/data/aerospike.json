@@ -103,7 +103,7 @@
   },
   "managed_cloud": {
     "support": "full",
-    "source_url": "",
+    "source_url": "https://aerospike.com/lp/aerospike-vector-search-preview-access/",
     "comment": ""
   },
   "pricing": {
@@ -132,7 +132,7 @@
     "comment": ""
   },
   "sharding": {
-    "support": "full",
+    "support": "none",
     "source_url": "",
     "comment": ""
   },
